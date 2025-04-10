@@ -1,6 +1,8 @@
 # StringDataSorter
 
 A high-performance .NET 9.0 solution for sorting large text files efficiently. The project leverages HPC# library for enhanced sorting capabilities and includes comprehensive benchmarking tools.
+![image](https://github.com/user-attachments/assets/5aba24ca-27da-4a7c-8724-7471f9835444)
+
 
 ## Features
 
